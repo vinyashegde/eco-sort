@@ -5,6 +5,10 @@ EcoSort is a mobile application leveraging AI to simplify recycling.
 ![google solution](https://github.com/vinyashegde/eco-sort/assets/46837876/f487857e-093b-4097-9d49-53642b8ad069)
 
 
+https://github.com/vinyashegde/eco-sort/assets/46837876/f014dfa2-71bb-4807-aab1-65fc0cf46a2e
+
+
+
 🌍 Overview:
 
 Intelligent Recycling: Utilizes AI to recognize items through image capture.
