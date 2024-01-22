@@ -1,6 +1,6 @@
 # eco-sort
 
-A Google Solution Challenge Project 2024
+<h2> A Google Solution Challenge Project 2024 </h2>
 Simplify recycling with EcoSort! Snap a pic, and our AI provides instant, personalized recycling instructions. Easy, smart, and eco-friendly. Contribute to a greener world!
 
 EcoSort is a mobile application leveraging AI to simplify recycling.
